@@ -14,6 +14,11 @@ The Segment Manager is a web app enabling users to create and manage custom data
 
 Installation and setup guide:
 
+Change directory:
+```bash
+  cd Segment-Manager-Tool-main
+```
+
 Install dependencies:
 ```bash
   npm install
